@@ -23,7 +23,7 @@ python3 atena.py
 
 ### Run descrypt
 ```bash
-python3 descrypt.py
+python3 decrypt.py
 ```
 
 ### Build
