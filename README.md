@@ -31,6 +31,10 @@ python3 decrypt.py
 pyinstaller atena.py
 ```
 
+### build server
+```bash
+nc -vnlp {port}
+```
 
 ```bash
 **
