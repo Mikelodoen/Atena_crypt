@@ -56,5 +56,5 @@ pyinstaller atena.py
       do resgate R$25.
 
                         discord:
-                    {red}Mikelodoen#2823{green}
+                    Mikelodoen#2823
 ```
